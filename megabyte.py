@@ -1,4 +1,5 @@
 a=1
 b=2
-c=a+b
-print(c)
+d=3
+c=a+b+d
+print("the output is",c)
